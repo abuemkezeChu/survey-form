@@ -19,3 +19,18 @@ body {
   background-attachment: fixed;
   color: #fff;
 }
+
+.header {
+  margin: 3rem auto;
+}
+
+#title {
+  font-size: 3rem;
+  font-weight: 200;
+}
+
+#description {
+  font-size: 1.6rem;
+  font-style: italic;
+  text-shadow: 1px 1px 1px #0006;
+}

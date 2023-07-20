@@ -76,8 +76,18 @@ body {
   width: 100%;
 }
 
-input,button,select,textarea {
+input,
+button,
+select,
+textarea {
   font-family: inherit;
   font-size: inherit;
   margin: 0;
+}
+
+.submit-button {
+  height: 6rem;
+  background-color: #37af65;
+  border: none;
+  color: #fff;
 }
